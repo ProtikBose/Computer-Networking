@@ -1,0 +1,360 @@
+
+
+A is going to send the following packet:
+Sequence number: 0
+Checksum: 1843
+Message: aaaaaaaaaaaaaaaaaaa
+The ack number A is expecting to see is 0
+
+
+
+B input here is the packet I received:
+Sequence number: 0
+Checksum: 1843
+Message: aaaaaaaaaaaaaaaaaaa
+The ack number B is expecting to send is 0
+sending
+
+
+A has received the ACK packet!
+ack number: 0
+Current expected ack number: 0
+
+Data is received 1 !!!
+
+
+A is going to send the following packet:
+Sequence number: 1
+Checksum: 1863
+Message: bbbbbbbbbbbbbbbbbbb
+The ack number A is expecting to see is 1
+
+
+
+B input here is the packet I received:
+Sequence number: 1
+Checksum: 1863
+Message: bbbbbbbbbbbbbbbbbbb
+The ack number B is expecting to send is 1
+sending
+
+
+A has received the ACK packet!
+ack number: 1
+Current expected ack number: 1
+
+Data is received 2 !!!
+
+
+A is going to send the following packet:
+Sequence number: 0
+Checksum: 1881
+Message: ccccccccccccccccccc
+The ack number A is expecting to see is 0
+
+
+
+B input here is the packet I received:
+Sequence number: 0
+Checksum: 1881
+Message: ccccccccccccccccccc
+The ack number B is expecting to send is 0
+sending
+
+
+A has received the ACK packet!
+ack number: 0
+Current expected ack number: 0
+
+Data is received 3 !!!
+
+
+A is going to send the following packet:
+Sequence number: 1
+Checksum: 1901
+Message: ddddddddddddddddddd
+The ack number A is expecting to see is 1
+
+
+
+B input here is the packet I received:
+Sequence number: 1
+Checksum: 1901
+Message: Zdddddddddddddddddd
+The ack number B is expecting to send is 1
+Data is corrupted !!! 
+
+
+A has received the ACK packet!
+ack number: 0
+Current expected ack number: 1
+
+Timeout occurs !!!
+
+
+A is going to send the following packet:
+Sequence number: 1
+Checksum: 1901
+Message: ddddddddddddddddddd
+The ack number A is expecting to see is 1
+
+
+
+B input here is the packet I received:
+Sequence number: 1
+Checksum: 1901
+Message: ddddddddddddddddddd
+The ack number B is expecting to send is 1
+sending
+Timeout occurs !!!
+
+
+A is going to send the following packet:
+Sequence number: 1
+Checksum: 1901
+Message: ddddddddddddddddddd
+The ack number A is expecting to see is 1
+
+
+
+B input here is the packet I received:
+Sequence number: 1
+Checksum: 1901
+Message: ddddddddddddddddddd
+The ack number B is expecting to send is 1
+sending
+
+
+A has received the ACK packet!
+ack number: 1
+Current expected ack number: 1
+
+Data is received 4 !!!
+
+
+A is going to send the following packet:
+Sequence number: 0
+Checksum: 1919
+Message: eeeeeeeeeeeeeeeeeee
+The ack number A is expecting to see is 0
+
+Dropping the packet !!!!
+
+
+B input here is the packet I received:
+Sequence number: 0
+Checksum: 1919
+Message: Zeeeeeeeeeeeeeeeeee
+The ack number B is expecting to send is 0
+Data is corrupted !!! 
+
+
+A has received the ACK packet!
+ack number: 0
+Current expected ack number: 0
+
+Data is received 5 !!!
+
+
+A is going to send the following packet:
+Sequence number: 1
+Checksum: 1939
+Message: fffffffffffffffffff
+The ack number A is expecting to see is 1
+
+
+
+B input here is the packet I received:
+Sequence number: 1
+Checksum: 1939
+Message: fffffffffffffffffff
+The ack number B is expecting to send is 1
+sending
+
+
+A has received the ACK packet!
+ack number: 1
+Current expected ack number: 1
+
+Data is received 6 !!!
+
+
+A is going to send the following packet:
+Sequence number: 0
+Checksum: 1957
+Message: ggggggggggggggggggg
+The ack number A is expecting to see is 0
+
+
+
+B input here is the packet I received:
+Sequence number: 0
+Checksum: 1957
+Message: ggggggggggggggggggg
+The ack number B is expecting to send is 0
+sending
+
+
+A has received the ACK packet!
+ack number: 0
+Current expected ack number: 0
+
+Timeout occurs !!!
+
+
+A is going to send the following packet:
+Sequence number: 0
+Checksum: 1957
+Message: ggggggggggggggggggg
+The ack number A is expecting to see is 0
+
+
+
+B input here is the packet I received:
+Sequence number: 0
+Checksum: 1957
+Message: ggggggggggggggggggg
+The ack number B is expecting to send is 0
+sending
+
+
+A has received the ACK packet!
+ack number: 0
+Current expected ack number: 0
+
+Data is received 7 !!!
+
+
+A is going to send the following packet:
+Sequence number: 1
+Checksum: 1977
+Message: hhhhhhhhhhhhhhhhhhh
+The ack number A is expecting to see is 1
+
+
+
+B input here is the packet I received:
+Sequence number: 1
+Checksum: 1977
+Message: hhhhhhhhhhhhhhhhhhh
+The ack number B is expecting to send is 1
+sending
+
+
+A has received the ACK packet!
+ack number: 1
+Current expected ack number: 1
+
+Data is received 8 !!!
+
+
+A is going to send the following packet:
+Sequence number: 0
+Checksum: 1995
+Message: iiiiiiiiiiiiiiiiiii
+The ack number A is expecting to see is 0
+
+
+
+B input here is the packet I received:
+Sequence number: 0
+Checksum: 1995
+Message: Ziiiiiiiiiiiiiiiiii
+The ack number B is expecting to send is 0
+Data is corrupted !!! 
+Timeout occurs !!!
+
+
+A is going to send the following packet:
+Sequence number: 0
+Checksum: 1995
+Message: iiiiiiiiiiiiiiiiiii
+The ack number A is expecting to see is 0
+
+
+
+B input here is the packet I received:
+Sequence number: 0
+Checksum: 1995
+Message: iiiiiiiiiiiiiiiiiii
+The ack number B is expecting to send is 0
+sending
+
+
+A has received the ACK packet!
+ack number: 999999
+Current expected ack number: 0
+
+Timeout occurs !!!
+
+
+A is going to send the following packet:
+Sequence number: 0
+Checksum: 1995
+Message: iiiiiiiiiiiiiiiiiii
+The ack number A is expecting to see is 0
+
+Timeout occurs !!!
+
+
+A is going to send the following packet:
+Sequence number: 0
+Checksum: 1995
+Message: iiiiiiiiiiiiiiiiiii
+The ack number A is expecting to see is 0
+
+
+
+B input here is the packet I received:
+Sequence number: 0
+Checksum: 1995
+Message: iiiiiiiiiiiiiiiiiii
+The ack number B is expecting to send is 0
+sending
+
+
+A has received the ACK packet!
+ack number: 0
+Current expected ack number: 0
+
+Data is received 9 !!!
+
+
+A is going to send the following packet:
+Sequence number: 1
+Checksum: 2015
+Message: jjjjjjjjjjjjjjjjjjj
+The ack number A is expecting to see is 1
+
+
+
+B input here is the packet I received:
+Sequence number: 1
+Checksum: 2015
+Message: jjjjjjjjjjjjjjjjjjj
+The ack number B is expecting to send is 1
+sending
+Timeout occurs !!!
+
+
+A is going to send the following packet:
+Sequence number: 1
+Checksum: 2015
+Message: jjjjjjjjjjjjjjjjjjj
+The ack number A is expecting to see is 1
+
+
+
+B input here is the packet I received:
+Sequence number: 1
+Checksum: 2015
+Message: jjjjjjjjjjjjjjjjjjj
+The ack number B is expecting to send is 1
+sending
+
+
+A has received the ACK packet!
+ack number: 1
+Current expected ack number: 1
+
+Data is received 10 !!!

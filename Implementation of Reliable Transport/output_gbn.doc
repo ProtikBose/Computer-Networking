@@ -1,0 +1,399 @@
+Data Sent !!!
+
+
+A is going to send the following packet:
+Sequence number: 0
+Checksum : 1843
+Expected ack number : 0
+
+
+
+B has got the following packet:
+Sequence number: 0
+Checksum : 1843
+Expected ack number : 0
+
+
+sending
+
+
+A has received the following packet:
+Ack Number: 0
+Expected ack number : 0
+
+found 1
+Data Sent !!!
+
+
+A is going to send the following packet:
+Sequence number: 1
+Checksum : 1863
+Expected ack number : 1
+
+
+
+B has got the following packet:
+Sequence number: 1
+Checksum : 1863
+Expected ack number : 1
+
+
+sending
+
+
+A has received the following packet:
+Ack Number: 1
+Expected ack number : 1
+
+found 2
+Data Sent !!!
+
+
+A is going to send the following packet:
+Sequence number: 2
+Checksum : 1883
+Expected ack number : 2
+
+
+
+B has got the following packet:
+Sequence number: 2
+Checksum : 1883
+Expected ack number : 2
+
+
+sending
+
+
+A has received the following packet:
+Ack Number: 2
+Expected ack number : 2
+
+found 3
+Data Sent !!!
+
+
+A is going to send the following packet:
+Sequence number: 3
+Checksum : 1903
+Expected ack number : 3
+
+
+
+B has got the following packet:
+Sequence number: 3
+Checksum : 1903
+Expected ack number : 3
+
+
+sending
+
+
+A has received the following packet:
+Ack Number: 3
+Expected ack number : 3
+
+found 4
+Data Sent !!!
+
+
+A is going to send the following packet:
+Sequence number: 4
+Checksum : 1923
+Expected ack number : 4
+
+
+
+B has got the following packet:
+Sequence number: 4
+Checksum : 1923
+Expected ack number : 4
+
+
+sending
+Data Sent !!!
+
+
+A is going to send the following packet:
+Sequence number: 5
+Checksum : 1943
+Expected ack number : 4
+
+catch in B
+Timeout occurs !!!
+Data Sent !!!
+
+
+A is going to send the following packet:
+Sequence number: 6
+Checksum : 1963
+Expected ack number : 4
+
+Data Sent !!!
+
+
+A is going to send the following packet:
+Sequence number: 7
+Checksum : 1983
+Expected ack number : 4
+
+
+
+B has got the following packet:
+Sequence number: 7
+Checksum : 1983
+Expected ack number : 5
+
+
+Data is corrupted !!! 
+Timeout occurs !!!
+
+
+A has received the following packet:
+Ack Number: 0
+Expected ack number : 4
+
+Packet is dropped !!!
+Data Sent !!!
+
+
+A is going to send the following packet:
+Sequence number: 0
+Checksum : 1995
+Expected ack number : 4
+
+Data Sent !!!
+
+
+A is going to send the following packet:
+Sequence number: 1
+Checksum : 2015
+Expected ack number : 4
+
+
+
+B has got the following packet:
+Sequence number: 999999
+Checksum : 2015
+Expected ack number : 5
+
+
+Data is corrupted !!! 
+
+
+A has received the following packet:
+Ack Number: 0
+Expected ack number : 4
+
+
+duplicate
+Data Sent !!!
+
+
+A is going to send the following packet:
+Sequence number: 2
+Checksum : 2035
+Expected ack number : 4
+
+
+
+B has got the following packet:
+Sequence number: 2
+Checksum : 2035
+Expected ack number : 5
+
+
+Data is corrupted !!! 
+
+
+A has received the following packet:
+Ack Number: 0
+Expected ack number : 4
+
+
+duplicate
+Data Sent !!!
+
+
+A is going to send the following packet:
+Sequence number: 3
+Checksum : 2055
+Expected ack number : 4
+
+
+
+B has got the following packet:
+Sequence number: 3
+Checksum : 2055
+Expected ack number : 5
+
+
+Data is corrupted !!! 
+
+
+A has received the following packet:
+Ack Number: 0
+Expected ack number : 4
+
+
+duplicate
+Data Sent !!!
+
+
+A is going to send the following packet:
+Sequence number: 4
+Checksum : 2075
+Expected ack number : 4
+
+Data Sent !!!
+
+
+A is going to send the following packet:
+Sequence number: 5
+Checksum : 2095
+Expected ack number : 4
+
+Data Sent !!!
+
+
+A is going to send the following packet:
+Sequence number: 6
+Checksum : 2115
+Expected ack number : 4
+
+catch in B
+Timeout occurs !!!
+Data Sent !!!
+
+
+A is going to send the following packet:
+Sequence number: 7
+Checksum : 2135
+Expected ack number : 4
+
+
+
+B has got the following packet:
+Sequence number: 4
+Checksum : 2075
+Expected ack number : 5
+
+
+Data is corrupted !!! 
+Data Sent !!!
+
+
+A is going to send the following packet:
+Sequence number: 0
+Checksum : 2147
+Expected ack number : 4
+
+
+
+B has got the following packet:
+Sequence number: 5
+Checksum : 2095
+Expected ack number : 5
+
+
+Data is corrupted !!! 
+
+
+B has got the following packet:
+Sequence number: 7
+Checksum : 2135
+Expected ack number : 5
+
+
+Data is corrupted !!! 
+
+
+A has received the following packet:
+Ack Number: 0
+Expected ack number : 4
+
+
+duplicate
+
+
+A has received the following packet:
+Ack Number: 0
+Expected ack number : 4
+
+
+duplicate
+Timeout occurs !!!
+Data Sent !!!
+
+
+A is going to send the following packet:
+Sequence number: 1
+Checksum : 2167
+Expected ack number : 4
+
+
+
+A has received the following packet:
+Ack Number: 0
+Expected ack number : 4
+
+
+duplicate
+Data Sent !!!
+
+
+A is going to send the following packet:
+Sequence number: 2
+Checksum : 2187
+Expected ack number : 4
+
+
+
+B has got the following packet:
+Sequence number: 1
+Checksum : 2167
+Expected ack number : 5
+
+
+Data is corrupted !!! 
+
+
+A has received the following packet:
+Ack Number: 0
+Expected ack number : 4
+
+
+duplicate
+
+
+B has got the following packet:
+Sequence number: 2
+Checksum : 2187
+Expected ack number : 5
+
+
+Data is corrupted !!! 
+
+
+A has received the following packet:
+Ack Number: 0
+Expected ack number : 4
+
+Packet is dropped !!!
+Data Sent !!!
+
+
+A is going to send the following packet:
+Sequence number: 3
+Checksum : 2207
+Expected ack number : 4
+
+
+
+B has got the following packet:
+Sequence number: 3
+Checksum : 2207
+Expected ack number : 5
+
+
+Data is corrupted !!! 
